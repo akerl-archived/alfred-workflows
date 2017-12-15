@@ -1,0 +1,12 @@
+[submodule "workflows/wifi-workflow"]
+	path = workflows/wifi-workflow
+	url = https://github.com/ravelll/wifi-workflow.git
+[submodule "workflows/alfred-hash-workflow"]
+	path = workflows/alfred-hash-workflow
+	url = https://github.com/willfarrell/alfred-hash-workflow
+[submodule "workflows/alfred-2-caffeinate-workflow"]
+	path = workflows/alfred-2-caffeinate-workflow
+	url = https://github.com/shawnrice/alfred-2-caffeinate-workflow
+[submodule "workflows/alfred-pkgman-workflow"]
+	path = workflows/alfred-pkgman-workflow
+	url = https://github.com/willfarrell/alfred-pkgman-workflow
